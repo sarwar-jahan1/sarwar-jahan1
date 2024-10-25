@@ -1,10 +1,7 @@
 ![Begineer App Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 ### Hi there 👋, I'm Sarwar
 #### Begineer App Developer
-
-Here's a simple "About Me" section that you can use:
-
----
 
 Hello! I'm a Computer Science student at Varendra University with a growing passion for app development. Currently, I'm building a foundation in coding and exploring different areas in software development. As a beginner app developer, I'm eager to learn new skills, work on projects, and develop creative solutions. Looking forward to enhancing my knowledge and contributing to exciting tech projects!
 
@@ -28,6 +25,7 @@ Skills: HTML / CSS / C / C++ / JAVA / FLUTTER
 ![GitHub metrics](https://metrics.lecoq.io/sarwar-jahan1)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sarwar-jahan1)  
+
 
 
 
