@@ -1,14 +1,15 @@
-![Begineer App Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 ### Hi there 👋, I'm Sarwar
-#### Begineer App Developer
+#### Web Developer
 
-Hello! I'm a Computer Science student at Varendra University with a growing passion for app development. Currently, I'm building a foundation in coding and exploring different areas in software development. As a beginner app developer, I'm eager to learn new skills, work on projects, and develop creative solutions. Looking forward to enhancing my knowledge and contributing to exciting tech projects!
+I'm a Computer Science student at Varendra University with a strong interest in frontend development. I enjoy building clean and responsive web interfaces using HTML, CSS, and JavaScript. Currently, I'm exploring new tools and technologies to grow as a web developer.
 
-Skills: HTML / CSS / C / C++ / JAVA / FLUTTER
+
+Skills: HTML / CSS / JS / C++ / Python / JAVA / FLUTTER
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning web development
 - 👯 I’m looking to collaborate on github 
 
 
