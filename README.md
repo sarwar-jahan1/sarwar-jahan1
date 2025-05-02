@@ -5,7 +5,8 @@
 
 I'm a Computer Science student at Varendra University with a strong interest in frontend development. I enjoy building clean and responsive web interfaces using HTML, CSS, and JavaScript. Currently, I'm exploring new tools and technologies to grow as a web developer.
 
-💬 About Me
+### About Me
+
 🎓 Studying Computer Science at Varendra University
 
 💻 Focused on frontend development
